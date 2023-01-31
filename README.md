@@ -16,7 +16,7 @@ This project was built in order to test my code refractoring skills, alongside m
 - Added semantic elements, classes, and descriptive comments to the Index.html
 - Restructured the style.css alphabetically, eliminated redundancies, and corrected selector names
 - Tested and compared to original; my adjustments didn't effect how the application operated
-- Uploaded it to the repository and deployed website:  [insertwebsite]
+- Uploaded it to the repository and deployed website:  [https://stbuiemory.github.io/HoriSEOn-Project/]
 #
 ## Usage
 - Here is a screenshot of my final product
