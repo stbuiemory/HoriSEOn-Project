@@ -20,7 +20,7 @@ This project was built in order to test my code refractoring skills, alongside m
 #
 ## Usage
 - Here is a screenshot of my final product
-![Screenshot of the final product](/Assets/images/module1challresult.png)
+![Screenshot of the final product](/Assets/module1challresult.png)
 #
 ## Credits
 
